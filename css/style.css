@@ -1,0 +1,22 @@
+
+
+
+.formulario-principal{
+    margin-top: 50px;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.formulario{
+    width: 40%;
+    background-color: rgb(208, 255, 239);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.form-outline{
+    margin-bottom: 20px;
+}
